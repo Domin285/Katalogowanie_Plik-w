@@ -1,0 +1,6 @@
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Biblioteka\obj\Debug\Biblioteka.pdb

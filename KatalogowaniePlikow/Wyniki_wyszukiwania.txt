@@ -1,0 +1,104 @@
+Liczba plików z rozszerzeniem .png: 101
+Pliki z rozszerzeniem .png:
+C:\Users\dyplo\OneDrive\Pulpit\2.png
+C:\Users\dyplo\OneDrive\Pulpit\3.png
+C:\Users\dyplo\OneDrive\Pulpit\4.png
+C:\Users\dyplo\OneDrive\Pulpit\CV\CV1.png
+C:\Users\dyplo\OneDrive\Pulpit\DAshboardproba.png
+C:\Users\dyplo\OneDrive\Pulpit\mobile.png
+C:\Users\dyplo\OneDrive\Pulpit\qr.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\bin\splash.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\closedbook.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\codesampleicon.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\cuecardsicon.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\default_center.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\default_left.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\default_right.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\footer_img.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\gotootnicon.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\helptopicicon.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\kd_coach.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\mouse_down_center.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\mouse_down_left.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\mouse_down_right.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\mouse_over_center.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\mouse_over_left.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\mouse_over_right.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\openbook.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\startpage_main.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\tile.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\tile_1.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\tile_2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\TPaths.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c2_f2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c2_f2_only.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c2_f3.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c2_f4.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c2_f5.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c3.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c3_f2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c3_f3.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c3_f4.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\doc\welcome\welcomeImages\welcome_r2_c3_f5.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\reports\img\disclosecollapsed_ena.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\datamodeler\reports\img\discloseexpanded_ena.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\icon.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\ide\bin\SplashFontBranding.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\datamodeler\datamodeler\ide\themes\sizingmargins.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\binance.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\bitbay.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\pendrive\Duzy projekt\GeForce GTX 1050 Ti.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\pendrive\dziombowski_logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\ProjektBazy\packages\NHibernate.5.4.2\NHibernate-NuGet.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\ProjektBazy\ProjektBazy\Resources\polska.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\ProjektBazy\ProjektBazy\Resources\user5.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\divyzelent\auto.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\Dominik projekt\dziombowskidominik\media\logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\DominikDziombowski\import.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\DziombowskiDominik\dziombowski_logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\DziombowskiDominik\media\logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\egzamin zebro\Filip.Kepka.ee.09 01\import.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\PESEL\auto.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\PESEL\bazaDanych.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\E14_05\logo-duze.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\E14_05\logo-male.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\E14_06\grafika.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\E14_06\logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\EE09_01\import.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\EE09_02\logo2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\obrazki\1.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\obrazki\2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\obrazki\3.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\obrazki\4.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\obrazki\5.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\obrazki\6.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\php_mysql\biblioteka\background.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\php\php_mysql\projekt\projekt_bazy.PNG
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\Projekt nr2\domin\portret.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\Projekt nr2\domin\tło.PNG
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\Projekt nr2\domin\tło2.PNG
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\projektcookies\1.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\projektcookies\2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\projektdanio\projekt_bazy.PNG
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\rozwiązania egzamin\Jesień 2016\E.14-01-16.08\E.14-01-16.08\haslo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\rozwiązania egzamin\Jesień 2016\E.14-02-16.08\E.14-02-16.08\rysunek.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\rozwiązania egzamin\Jesień 2016\E.14-03-16.08\E.14-03-16.08\import.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\stronkapróba\las.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\strony\dziombowskidominik\media\logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\strony\gorczynskidaniel\media\logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\strony\lipkamilosz\gotowe.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\strony\lipkamilosz\multimedia\gotowe.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\strony\lipkamilosz\multimedia\logo.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\test ee09\Bez tytułu.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\test ee09\Bez tytułu1.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\test ee09\Bez tytułu2.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\Moje\Zawodowe\test ee09\Bez tytułu3.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\UML\diagraminterakcji.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\UML\diagramklas.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\UML\diagramkomponentow.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\UML\diagramobiektow.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\UML\diagramprzypadkowuzycia (3).png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\UML\diagramstanu.png
+C:\Users\dyplo\OneDrive\Pulpit\Studia\UML\diagramwdrozenia.png
+

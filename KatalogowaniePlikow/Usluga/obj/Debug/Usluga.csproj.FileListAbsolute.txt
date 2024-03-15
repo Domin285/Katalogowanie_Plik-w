@@ -1,0 +1,12 @@
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\bin\Debug\Usluga.exe.config
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\bin\Debug\Usluga.exe
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\bin\Debug\Usluga.pdb
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\obj\Debug\Usluga.csproj.AssemblyReference.cache
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\obj\Debug\Usluga.csproj.CoreCompileInputs.cache
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\obj\Debug\Usluga.exe
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\obj\Debug\Usluga.pdb
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\bin\Debug\Biblioteka.dll
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\bin\Debug\Biblioteka.pdb
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\obj\Debug\Usluga.csproj.CopyComplete
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\obj\Debug\Usluga.ProjectInstaller.resources
+C:\Users\dyplo\source\repos\KatalogowaniePlikow\Usluga\obj\Debug\Usluga.csproj.GenerateResource.cache
